@@ -15,6 +15,13 @@
 
 	<dependencies>
 
+		<!-- Link backend project -->
+		<dependency>
+			<groupId>net.discovrer</groupId>
+			<artifactId>shoppingbackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+
 		<!-- JavaEE API -->
 		<dependency>
 			<groupId>javax</groupId>
